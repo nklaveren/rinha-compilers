@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nklaveren/repos/rinha-de-compiler/rinha/src/rinha-de-compiler.csproj",
-      "projectName": "rinha-de-compiler",
-      "projectPath": "/home/nklaveren/repos/rinha-de-compiler/rinha/src/rinha-de-compiler.csproj",
+      "projectUniqueName": "/home/nklaveren/repos/rinha-de-compiler/rinha/src/RinhaDeCompiler.csproj",
+      "projectName": "RinhaDeCompiler",
+      "projectPath": "/home/nklaveren/repos/rinha-de-compiler/rinha/src/RinhaDeCompiler.csproj",
       "packagesPath": "/home/nklaveren/.nuget/packages/",
       "outputPath": "/home/nklaveren/repos/rinha-de-compiler/rinha/src/obj/",
       "projectStyle": "PackageReference",
