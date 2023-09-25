@@ -3,16 +3,17 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>rinha_de_compiler</RootNamespace>
+    <RootNamespace>RinhaDeCompiler</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <!-- <PublishAot>true</PublishAot>
-    <OptimizationPreference>Speed</OptimizationPreference>
-    <PublishReadyToRun>true</PublishReadyToRun> -->
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Ast/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="4.7.0" />
   </ItemGroup>
 
 </Project>
