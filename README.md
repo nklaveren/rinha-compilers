@@ -14,7 +14,7 @@ docker build . -t="rinha"
 Finally execute:
 
 ```sh
-docker run -it rinha fileName ./files//fib.json
+docker run -it rinha ./files/fib.json
 ```
 
 ## Language Features
